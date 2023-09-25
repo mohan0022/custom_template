@@ -1,0 +1,22 @@
+{
+  "name": "cra-template-mohan00template",
+  "version": "1.2.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "The base template for custom template",
+  
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
